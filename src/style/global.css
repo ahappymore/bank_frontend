@@ -1,0 +1,11 @@
+html,
+body {
+    height: 100%;
+    /* 设置高度为 100% */
+    margin: 0;
+    /* 去除默认的外边距 */
+    padding: 0;
+    /* 去除默认的内边距 */
+    box-sizing: border-box;
+    /* 确保边框和内边距不会影响元素的总尺寸 */
+}
